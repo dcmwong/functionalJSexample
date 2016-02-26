@@ -1,0 +1,13 @@
+{
+  "name": "pointfree",
+  "homepage": "https://github.com/DrBoolean/pointfree-fantasy",
+  "_release": "785a34db3d",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "785a34db3d9fd71281526478a0054c3db2b5ad1a"
+  },
+  "_source": "git://github.com/DrBoolean/pointfree-fantasy.git",
+  "_target": "*",
+  "_originalSource": "DrBoolean/pointfree-fantasy"
+}
